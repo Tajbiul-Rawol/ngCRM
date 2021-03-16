@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ngcrm';
+  activeIndex :boolean; // booleans are by default undefined -> false
 }

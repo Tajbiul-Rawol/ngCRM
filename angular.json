@@ -28,6 +28,9 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/primeicons/primeicons.css",
+              "node_modules/primeng/resources/themes/saga-blue/theme.css",
+              "node_modules/primeng/resources/primeng.min.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -123,6 +126,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngcrm"
+    }
+  },
+  "defaultProject": "ngcrm",
+  "cli": {
+    "analytics": "9c9b893b-895e-4ba9-ba3a-c9748026a7d3"
+  }
 }
